@@ -8,8 +8,12 @@ You must have Java installed in your machine. You can download it from [Adoptium
 
 ## Usage
 1. Open a command line (preferably in the same location as the grayscaler.java file)
-2. Type **java grayscaler.java**
-3. Paste the path to the image in the command line, or simply drag the image into it
-4. Press ENTER
+2. Type in "java grayscaler.java" and press ENTER
+3. Drag the image into the command line interface and press ENTER
 
 A grayscale version of the image should be created at the same location
+
+### Resources
+- https://blog.idrsolutions.com/how-to-read-and-write-images-in-java/
+- https://en.wikipedia.org/wiki/Grayscale
+- https://www.tutorialspoint.com/dip/grayscale_to_rgb_conversion.htm
